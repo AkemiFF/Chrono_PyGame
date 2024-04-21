@@ -1,0 +1,4 @@
+jeu de snake (pygame)
+gestion livre (PyQt): Membre, emprunt, livre
+EDT(PyQt): Matière, salles, classes, enseignant
+Matière : Titre, VH, Prof (ajout, liste)
